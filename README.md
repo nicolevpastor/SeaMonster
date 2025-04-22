@@ -1,6 +1,7 @@
 # SeaMonster
 
 # Sea Monster Project👾
+Submitted by Nicole Pastor - CodePath
 A page where it is designed to display several games, funded or not. When the user hops on, they are introduced 
 with the game cards and helpful features, such as being able to search and use the filtering options to see funded
 and unfunded games only. The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games. 
