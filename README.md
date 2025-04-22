@@ -16,7 +16,6 @@ and unfunded games only. The Stats section includes information about the total 
 - [X] HTML
 - [X] CSS
 - [X] JavaScript
-- [X] React
 
 ## Video Walkthrough🎥
 <div>
